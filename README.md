@@ -1,19 +1,24 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🎨 CSS Fun Project
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+This is a simple web project to practice HTML and CSS fundamentals.  
+It includes typography, button styles, layout, and hover effects.  
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🚀 Features
+- Custom typography with **Google Fonts (Lato)**  
+- Styled buttons with hover effects  
+- Two sections with contrasting backgrounds  
+- A clean and centered layout using `.container`  
+- Responsive-friendly design (with a small tweak)  
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-Happy Coding!
+## 💻 How to Run
+1. Clone or download this repository.  
+2. Open `index.html` in your browser.  
+3. That’s it! 🎉
+
+## 🛠️ Customization
+- Update the text in `index.html` to make it your own.  
+- Change colors in `css/styles.css` for a different look.  
+- Replace `images/boardwalk.png` with your own image.  
+
+✨ Built with love while learning **HTML & CSS**.
