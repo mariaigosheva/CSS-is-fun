@@ -19,4 +19,4 @@ It includes typography, button styles, layout, and hover effects.
 
 ---
 
-✅ Complete.
+✅ Complete
